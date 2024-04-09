@@ -1,4 +1,10 @@
 ### Hi there 👋
+
+## My name is Adel del Valle. 
+## I am:
+## - Master's of Computer Science at New York University 
+## - 24 years old
+## - Focusing on Machine Learning, SWE, HPC, Big Data & Algorithms
 [![Adel del Valle'stats](https://github-readme-stats.vercel.app/api?username=adeldelvalle)](https://github.com/adeldelvalle/github-readme-stats)
 
 <!--
